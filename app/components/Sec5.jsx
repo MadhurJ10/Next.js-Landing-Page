@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './Button'
 import Anicard from './Anicard'
-Anicard
+
 
 const Sec5 = () => {
     return (
@@ -17,7 +17,7 @@ const Sec5 = () => {
                 </div>
             </div>
             <div className='flex flex-row w-[100%] '>
-                <div className='w-[100%] flex justify-between'>
+                <div className='w-[100%] flex justify-between '>
                     <Anicard />
 
                 </div>
